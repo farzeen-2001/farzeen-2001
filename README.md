@@ -1,5 +1,5 @@
  Hi, I'm Farzeen! 👋
-💡 Aspiring Data Analyst | Learning Power BI, Excel & Python
+💡 Aspiring Data Analyst | Learning Power BI, Excel, SQL & Python
 
 I am currently developing my skills in data analytics, business intelligence, and automation.
 My goal is to transform raw data into meaningful insights and improve decision-making.
